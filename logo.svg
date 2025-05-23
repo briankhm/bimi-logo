@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 300 300"
+  version="1.2"
+  baseProfile="tiny-ps"
+  role="img"
+  aria-labelledby="title desc"
+>
+  <title id="title">Hair Machine Logo</title>
+  <desc id="desc">Orange stylized logo for Hair Machine</desc>
+  <g transform="translate(82.2375 89.0625) scale(0.4875)">
+    <rect x="36.2" y="23.7" width="4.1" height="202.6" fill="#F26739"/>
+    <rect x="28.1" y="23.7" width="4" height="202.6" fill="#F26739"/>
+    <rect x="20" y="23.7" width="4" height="202.6" fill="#F26739"/>
+    <path fill="#F26739" d="M160.8 226.3l-19.1-134-.2 134h-.3H95.4h-6.8v-85.1H72.5v85.1H44.3V23.7h28.3v72.6h16.1V23.7h6.8h45.8h22.4c2 12.2 4.1 26.6 6.3 43.2l7.6 51.5 12.1-94.6H258v202.6h-46.1l-.2-136.8-18.1 136.8h-32.8V226.3z"/>
+  </g>
+</svg>
